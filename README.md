@@ -6,7 +6,7 @@
 
 - 🔭 Employment History: (Payrails,Caizin,Thoughtworks,Simpl,Cleartrip,Axisrooms,Aindra Systems)
 - 💬 Ask me about **linux,git,go,java,springboot**
-- 📫 How to reach me: [_sudipidus_ (twitter)](https://twitter.com/_sudipidus_)
+- 📫 How to reach me: [(twitter)](https://twitter.com/_sudipidus_)
 - 🎸 I am a music hobbyist (guitar,harmonica,harp) [youtube link](https://www.youtube.com/channel/UCNqNfBGSHyL42nRC_ZBodNA?view_as=subscriber)
 - ✍️ I frequently write on tech at [my blog](http://sudipidus.github.io)
 
